@@ -1,4 +1,3 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>read.me</title><style></style></head><body id="preview">
 <p class="has-line-data" data-line-start="0" data-line-end="1"><img src="https://raw.githubusercontent.com/Rapidoso/URP_Texture_Converter/master/vElements/URP_Texture_Convertor_Logo_ReadMe.svg"></p>
 <h1 class="code-line" data-line-start=1 data-line-end=2><a id="URP_Texture_Converter_1"></a>URP Texture Converter</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=3><a id="_Unity_URP_Metallic__Smoothness_Map__2"></a><em>Unity URP Metallic &amp; Smoothness Map</em></h2>
